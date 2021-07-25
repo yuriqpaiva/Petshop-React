@@ -19,3 +19,4 @@ O projeto foi desenvolvido em um curso da Alura, com algumas pequenas modificaç
 
 A aplicação possui um menu home e a partir dele é possível navegar para outras páginas, clicando nos posts, nas categorias e subcategorias.
 
+![Imagem-aplicacao](/img-aplicacao.png)
