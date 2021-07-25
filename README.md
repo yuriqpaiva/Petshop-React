@@ -1,6 +1,6 @@
 # Site-Petshop-React
 
-Site de petshop com React e Json Server com Axios
+Site de Petshop com React e Json Server com Axios
 
 # Como funciona?
 
@@ -12,3 +12,10 @@ e para O JSON server:
 ```
 npm run serve
 ```
+
+# Explicando o projeto
+
+O projeto foi desenvolvido em um curso da Alura, com algumas pequenas modificações feitas por mim, com o intuito de aprimorar o conhecimento de Rotas com o react-router-dom.
+
+A aplicação possui um menu home e a partir dele é possível navegar para outras páginas, clicando nos posts, nas categorias e subcategorias.
+
