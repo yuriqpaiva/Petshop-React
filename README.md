@@ -1,6 +1,6 @@
 # Site-Petshop-React
 
-Site de Petshop com React e JSON Server com Axios
+Site de Petshop feito com React e JSON Server com Axios
 
 # Como funciona?
 
