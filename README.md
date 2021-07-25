@@ -1,6 +1,6 @@
 # Site-Petshop-React
 
-Site de Petshop com React e Json Server com Axios
+Site de Petshop com React e JSON Server com Axios
 
 # Como funciona?
 
@@ -13,7 +13,7 @@ e para O JSON server:
 npm run serve
 ```
 
-# Explicando o projeto
+# Explicando o Projeto
 
 O projeto foi desenvolvido em um curso da Alura, com algumas pequenas modificações feitas por mim, com o intuito de aprimorar o conhecimento de Rotas com o react-router-dom.
 
