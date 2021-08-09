@@ -1,4 +1,4 @@
-# Site-Petshop-React
+# Site-Petshop
 
 Site de Petshop feito com React e JSON Server com Axios
 
